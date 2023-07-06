@@ -1,4 +1,4 @@
-# Magic-Journey
+# Magic-Journey©
 This is not a large part of the front-end, in which the main menu of the site is presented. Animation works on the navigation menu, and the "Login" button also works, where the login and registration window appears with a slight animation. The code is protected by copyright.
 
 html document:
