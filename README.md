@@ -1,5 +1,5 @@
 # Magic-Journey©
-<h3>💻 This is not a large part of the front-end, in which the main menu of the site is presented. Animation works on the navigation menu, and the "Login" button also works, where the login and registration window appears with a slight animation. The code is protected by copyright.</h3>
+<h4 align='left'>💻 This is not a large part of the front-end, in which the main menu of the site is presented. Animation works on the navigation menu, and the "Login" button also works, where the login and registration window appears with a slight animation. The code is protected by copyright.</h4>
 <img src='/image_2023-08-03_21-59-06.png' alt='screenshot'>
 
 <h3>This pseudo site is written according to the modern semantics of html and css. This pet project is great for a beginner front-end developer to get familiar with styles and get into basic JavaScript coding. Below I will provide a little documentation on the code.</h3>
