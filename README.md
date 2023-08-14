@@ -68,6 +68,41 @@ header {
 }
 ```
 
+<p><b>6. Moving on</b></p>
+
+```css
+.navigation a::after { /*creates a pseudo-element that is the last child of the selected element.*/
+    content: ''; /*set none content*/
+    position: absolute;
+    left: 0;
+    bottom: -6px;    /*set indent bottom in -6px*/
+    width: 100%;  /*set width in 100%*/
+    height: 3px;
+    background: #fff;  /*set background color white*/
+    border-radius: 5px; /*set window rounding*/
+    transform-origin: right; /*The transform-origin property allows you to change the position of transformed elements.*/
+    transform: scaleX(0);  /*set scale 0px*/
+    transition: transform .5s; /*set time animation*/
+}
+```
+<p><b>Summing up CSS file:</b></p>
+<p>This is a small part of the css file documentation. Why didn't I do more? It's simple, try to figure out the rest of the file yourself. I told you the main points, good luck!</p>
+
+- [x] Task 1: Learn the basics of html & css, javascript
+- [ ] Task 2: Show stranger code
+- [ ] Task 3: More practice
+
+<pre>
+.GitHub {
+  hints-one: <a href='https://devdocs.io/css/'><b>CSS Documentation</b></a>;
+  hints-two: <a href='https://devdocs.io/html/'><b>HTML Documentation</b></a>;
+  hints-three: <a href='https://devdocs.io/javascript/'><b>JavaScript Documentation</b></a>;
+
+  practice-frontend-skills:
+}
+</pre>
+
+
 <h3>JavaScript document:</h3>
 <p><b>1. Well, the last thing for today, deal with JavaScript</b></p>
 <p>- In the first 5 lines of code, we set the constants by referring to the selector, writing their names.</p>
