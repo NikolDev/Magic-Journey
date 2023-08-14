@@ -98,7 +98,7 @@ header {
   hints-two: <a href='https://devdocs.io/html/'><b>HTML Documentation</b></a>;
   hints-three: <a href='https://devdocs.io/javascript/'><b>JavaScript Documentation</b></a>;
 
-  practice-frontend-skills:
+  practice-frontend-skills: <a href='https://codepen.io/challenges'><b>Practice frontend</b></a>;
 }
 </pre>
 
